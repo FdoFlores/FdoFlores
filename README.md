@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FdoFlores
-- 👀 I’m interested in java, python, js, SQL.
+- 👀 I’m interested in Python, java, js, SQL.
 - 🌱 I’m currently learning NodeJS, PHP and JQuery.
 - 📫 How to reach me fdoff00@gmail.com
 
