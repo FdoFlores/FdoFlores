@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FdoFlores
 - 👀 I’m interested in Python, java, js, SQL.
-- 🌱 I’m currently learning NodeJS, PHP and JQuery.
+- 🌱 I’m currently working as backend developer using Django and FastAPI.
 - 📫 How to reach me fdoff00@gmail.com
 
 <!---
